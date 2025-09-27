@@ -6,4 +6,6 @@ package-lock.json
 
 *:Zone.Identifier
 
-web3-frontend/
+web3-frontend/assets/
+web3-frontend/.dfx/
+canister_ids.json
