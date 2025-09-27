@@ -1,6 +1,6 @@
 # MyResume
 
-**Live Web3 deployment:** https://lam7g-faaaa-aaaaj-qns7q-cai.icp0.io/
+**Live Web3 deployment:** https://lam7g-faaaa-aaaaj-qns7q-cai.icp0.io
 
 This resume website is hosted on the Web3 Internet Computer blockchain: http://internetcomputer.org/
 
