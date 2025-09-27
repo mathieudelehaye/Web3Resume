@@ -4,8 +4,6 @@
 
 This resume website is hosted on the Web3 Internet Computer blockchain: http://internetcomputer.org/
 
-Traditional deployment: https://mathieudelehaye.github.io/MyResume/ 
-
 <p float="left">
   <img src="screenshots/Screenshot00.png" alt="Screenshot00.png" style="float: left; margin-right: 10px;" width="600" hspace="10" />
 </p>
